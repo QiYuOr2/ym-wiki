@@ -1,0 +1,5 @@
+{
+  "scripts": {
+      "new:module": "node scripts/createModule.js"
+  }
+}
